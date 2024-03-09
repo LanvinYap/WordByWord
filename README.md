@@ -1,4 +1,7 @@
 # WordByWord
+
+## Instruction to run my project:
+
 My Final Year Project (FYP) "WordByWord"
 
 1) Download and open the file on Visual Studio Code.
