@@ -15,5 +15,6 @@ My Final Year Project (FYP) "WordByWord"
 5) To run the application on an Android or IOS emulator or simulator:
 
 Android: Open Android Studio, launch the AVD Manager, and start an Android emulator.
-IOS: Open Xcode and launch a simulator
+
+IOS: Open Xcode and launch a simulator.
 
